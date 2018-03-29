@@ -21,7 +21,7 @@ npm install fptf-mode-emojis
 const emojis = require('fptf-mode-emojis')
 
 console.log(emojis.gondola)
-// todo
+// 🚡
 ```
 
 
