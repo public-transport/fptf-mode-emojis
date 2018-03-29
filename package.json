@@ -1,0 +1,23 @@
+{
+	"name": "fptf-mode-emojis",
+	"description": "Utility: Emojis for Friendly Public Transport Format modes.",
+	"version": "0.1.0",
+	"main": "index.json",
+	"files": [
+		"index.json"
+	],
+	"keywords": [
+		"fptf",
+		"friendly public transport format",
+		"public transport",
+		"transit"
+	],
+	"author": "Jannis R <mail@jannisr.de>",
+	"homepage": "https://github.com/derhuerst/fptf-mode-emojis",
+	"repository": "derhuerst/fptf-mode-emojis",
+	"bugs": "https://github.com/derhuerst/fptf-mode-emojis/issues",
+	"license": "ISC",
+	"engines": {
+		"node": ">=6"
+	}
+}
