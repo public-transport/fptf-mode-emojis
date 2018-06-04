@@ -13,9 +13,9 @@
 		"transit"
 	],
 	"author": "Jannis R <mail@jannisr.de>",
-	"homepage": "https://github.com/derhuerst/fptf-mode-emojis",
-	"repository": "derhuerst/fptf-mode-emojis",
-	"bugs": "https://github.com/derhuerst/fptf-mode-emojis/issues",
+	"homepage": "https://github.com/public-transport/fptf-mode-emojis",
+	"repository": "public-transport/fptf-mode-emojis",
+	"bugs": "https://github.com/public-transport/fptf-mode-emojis/issues",
 	"license": "ISC",
 	"engines": {
 		"node": ">=6"
